@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- DINAS CONSULTING — Favicon (elongated star + gold dot) -->
+  <g transform="translate(16, 16)">
+    <path d="M -12,0 L 0,-6.5 L 12,0 L 0,6.5 Z" fill="#1a2e5a"/>
+    <path d="M 0,-15 L 6.5,0 L 0,15 L -6.5,0 Z" fill="#1a2e5a"/>
+    <circle cx="0" cy="0" r="3.5" fill="#d4a943"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <!-- DINAS CONSULTING — Sigil (gold star + white dot, for dark bg) -->
+  <!-- Matches the star inside logo-white.svg: 2.4:1 vertical elongation -->
+  <g transform="translate(20, 20)">
+    <path d="M -14,0 L 0,-7.5 L 14,0 L 0,7.5 Z" fill="#d4a943"/>
+    <path d="M 0,-18 L 7.5,0 L 0,18 L -7.5,0 Z" fill="#d4a943"/>
+    <circle cx="0" cy="0" r="3" fill="#ffffff"/>
+  </g>
+</svg>
