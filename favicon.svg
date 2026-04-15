@@ -1,8 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <!-- DINAS CONSULTING — Favicon (elongated star + gold dot) -->
-  <g transform="translate(16, 16)">
-    <path d="M -12,0 L 0,-6.5 L 12,0 L 0,6.5 Z" fill="#1a2e5a"/>
-    <path d="M 0,-15 L 6.5,0 L 0,15 L -6.5,0 Z" fill="#1a2e5a"/>
-    <circle cx="0" cy="0" r="3.5" fill="#d4a943"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="DINAS">
+  <defs>
+    <linearGradient id="gl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8c36a"/>
+      <stop offset="1" stop-color="#b8902f"/>
+    </linearGradient>
+    <linearGradient id="gd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b8902f"/>
+      <stop offset="1" stop-color="#806011"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(15 14)">
+    <polygon points="20,139 54,109 54,170 20,170" fill="url(#gl)"/>
+    <polygon points="54,109 91,139 91,170 54,170" fill="url(#gd)"/>
+    <polygon points="93,75 132,39 132,170 93,170" fill="url(#gl)"/>
+    <polygon points="132,39 175,75 175,170 132,170" fill="url(#gd)"/>
   </g>
 </svg>
