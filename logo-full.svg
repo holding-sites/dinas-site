@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="DINAS CONSULTING">
+  <defs>
+    <linearGradient id="goldLight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8c36a"/>
+      <stop offset="1" stop-color="#b8902f"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b8902f"/>
+      <stop offset="1" stop-color="#806011"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(100 -35) scale(1.03)">
+    <polygon points="20,139 54,109 54,243 20,243" fill="url(#goldLight)"/>
+    <polygon points="54,109 91,139 91,243 54,243" fill="url(#goldDark)"/>
+    <polygon points="93,75 132,39 132,243 93,243" fill="url(#goldLight)"/>
+    <polygon points="132,39 175,75 175,243 132,243" fill="url(#goldDark)"/>
+  </g>
+  <g font-family="'Plus Jakarta Sans', 'Helvetica Neue', Arial, sans-serif" fill="#0a1628" font-weight="900" text-anchor="middle">
+    <text x="200" y="215" font-size="88" letter-spacing="-2">DINAS</text>
+    <text x="200" y="265" font-size="40" letter-spacing="8">CONSULTING</text>
+  </g>
+</svg>
